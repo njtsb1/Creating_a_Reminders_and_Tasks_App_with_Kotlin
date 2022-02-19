@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TO DO</string>
+    <string name="label_new_task">Create Task</string>
+    <string name="label_title">Title</string>
+    <string name="label_date">Date</string>
+    <string name="label_hour">Hour</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_tasks">Tasks</string>
+    <string name="label_description_new_task">New Task</string>
+    <string name="label_edit">Edit</string>
+    <string name="label_delete">Delete</string>
+    <string name="label_you_dont_have_tasks">Ops! You don't have\nany tasks</string>
+</resources>
