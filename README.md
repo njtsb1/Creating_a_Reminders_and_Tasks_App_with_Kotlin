@@ -1,3 +1,5 @@
+Daily Learning
+
 # LAB - Creating a reminders and tasks app with Kotlin.
 
 Project: creation of a `To do list` App
@@ -9,3 +11,5 @@ This can be done in two ways: using [Shared Preferences](https://developer.andro
  - [Room](https://developer.android.com/training/data-storage/room): is a database that offers an abstraction layer over SQLite, helping to better deal with its complexity.
 
  - [DataStore](https://developer.android.com/topic/libraries/architecture/datastore?hl=pt-br): is a data storage solution that allows you to store key-value pairs or typed objects.
+
+- [LICENSE](./LICENSE)
