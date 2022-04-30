@@ -1,5 +1,8 @@
 Daily Learning
 
+Project developed at Digital Innovation One's NTT DATA Android Developer Bootcamp with the instruction of specialist [Ezequiel Messore](https://github.com/EzequielMessore "Ezequiel Messore"). 
+Learning to create a "To Do List" style App from scratch and conduct the entire development process using Kotlin, one of the fastest growing programming languages in recent years.
+
 # LAB - Creating a reminders and tasks app with Kotlin.
 
 Project: creation of a `To do list` App
